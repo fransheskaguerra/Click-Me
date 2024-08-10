@@ -1,0 +1,110 @@
+
+#homepageBody{
+    position: static;
+    background-color: blanchedalmond;
+    background-image: url(../image/hello.jpg);
+    background-size: 100%;
+    motion-offset: 0%;
+}
+
+#heartbody{
+    position: static;
+    background-color: whitesmoke;
+    background-size: 100%;
+    motion-offset: 0%;
+}
+
+#strawberry{
+    position: static;
+    justify-content: center;
+    margin-left: 25vw;
+    margin-top: 2vw;
+    align-items: center;
+    background-size: 100%;
+    height: 50vw; 
+    width: 50vw;
+}
+
+#clickme{
+    position: static;
+    margin-right: 75%;
+    height: 8%;
+    width: 8%;
+}
+#letter{
+    position: static;
+    align-items: center;
+    margin-left: 25vw;
+    margin-top: 2vw;
+    background-size: 100%;
+    size-adjust: 45%;
+    height: 45vw;
+    width: 45vw;
+}
+
+#yellow{
+    align-items: center;
+    margin-left: 30vw;
+    margin-top: 15vw;
+    margin-bottom: 15vw;
+    background-size: 100vw;
+    size-adjust: 10vw;
+    height: 45vw;
+    width: 45vw;
+}
+
+#heart{
+    position: static;
+    margin-left: 40%;
+    margin-top: 20%;
+    margin-bottom: 55vw;
+    size-adjust: 50vw;
+    height: 50vw;
+    width: 35vw;
+}
+#note{
+    position: fixed;
+    height: 40vw;
+    width: 60vw;
+    margin-bottom: 50vw;
+
+}
+#lettertothebirdsbody{
+    background-image: url(../image/bird.jpg);
+    position: static;
+    motion-offset: 0%;
+    background-size: 100%;
+    
+}
+h2{
+    position: static;
+    align-items: center;
+    margin-left: 32vw;
+    margin-top: 2vw;
+    color: rgb(39, 183, 232);
+    filter: blur(5px);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2:hover{
+    color: rgba(167, 167, 167, 0.952);
+    background-color: antiquewhite;
+    font: italic;
+    filter: contrast(200%);
+}
+   
+h3{
+    color: cornsilk;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: static;
+    margin-bottom: 83%;
+    margin-top: 45%;
+    margin-left: 15%;
+}
+
+h4{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    position: absolute;
+}
